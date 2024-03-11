@@ -1,1 +1,4 @@
-global using NUnit.Framework;
+global using Xunit;
+global using FluentAssertions;
+
+global using GroceryApp.Domain.Common.Error;
